@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">11591a7f4f401300a21ffa218110c760</sp_column>
+        <sp_widget display_value="About Me">89591a7f4f401300a21ffa218110c756</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>jesse.triplett</sys_created_by>
+        <sys_created_on>2018-02-10 01:12:07</sys_created_on>
+        <sys_id>dd591a7f4f401300a21ffa218110c761</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="eponymous" source="x_72453_eponymous">19087abf4f730300a21ffa218110c7d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="eponymous">19087abf4f730300a21ffa218110c7d1</sys_scope>
+        <sys_update_name>sp_instance_dd591a7f4f401300a21ffa218110c761</sys_update_name>
+        <sys_updated_by>jesse.triplett</sys_updated_by>
+        <sys_updated_on>2018-02-10 01:12:07</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=dd591a7f4f401300a21ffa218110c761"/>
+</record_update>
