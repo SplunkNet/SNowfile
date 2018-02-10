@@ -14,8 +14,12 @@
 .about-paddingB {padding-bottom: 12px;}
 .about-img {
 padding-left: 10%;
-padding-top: 10%;
+padding-top: 20%;
 width: 80%;
+}
+
+div ul{
+padding-top:10px;
 }
 
 .about-img img {
@@ -49,14 +53,14 @@ width: 100%;
         <sys_created_by>jesse.triplett</sys_created_by>
         <sys_created_on>2018-02-10 01:12:07</sys_created_on>
         <sys_id>89591a7f4f401300a21ffa218110c756</sys_id>
-        <sys_mod_count>28</sys_mod_count>
+        <sys_mod_count>38</sys_mod_count>
         <sys_name>About Me</sys_name>
         <sys_package display_value="eponymous" source="x_72453_eponymous">19087abf4f730300a21ffa218110c7d1</sys_package>
         <sys_policy/>
         <sys_scope display_value="eponymous">19087abf4f730300a21ffa218110c7d1</sys_scope>
         <sys_update_name>sp_widget_89591a7f4f401300a21ffa218110c756</sys_update_name>
         <sys_updated_by>jesse.triplett</sys_updated_by>
-        <sys_updated_on>2018-02-10 01:48:19</sys_updated_on>
+        <sys_updated_on>2018-02-10 18:32:38</sys_updated_on>
         <template><![CDATA[
 <div class="about-section paddingTB60 gray-bg">
                 <div class="container">
@@ -65,13 +69,14 @@ width: 100%;
 							<div class="about-title clearfix">
 								<h1>About <span>me</span></h1>
 								<h3>Fast Learner. Detail Oriented. Reliable and Professional.</h3>
-								<p class="about-paddingB">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet dolor libero, eget venenatis mauris finibus dictum. Vestibulum quis elit eget neque porttitor congue non sit amet dolor. Proin pretium purus a lorem ornare </p>
-								<p>sed lobortis pulvinar. Integer laoreet mi id eros porta euismod. Suspendisse potenti. Nulla eros mauris, convallis et sem tempus, viverra hendrerit sapien</p>
+								<p class="about-paddingB">Through my experience, I've developed both a robust background in modern technologies as well as a depth of practical knowledge in managing clients, engagement models, and creation and maintenance of successful processes and documentation.</p>
+								<p>
+In the past half-decade in DC I've been most heavily involved in extensive modernization efforts for multiple governmental agencies (primarily the GSA and the FCC), chiefly acting as the technical lead on application re-engineering projects while also consulting and building towards a robust overall system architecture roadmap.</p>
 						<div class="about-icons"> 
                             <ul >
                                 <li><a href="https://www.linkedin.com/in/jessedtriplett/"><i id="social-li" class="fa fa-linkedin-square fa-3x social"></i></a> </li>
                                 <li><a href="https://github.com/guythedude"><i id="social-gh" class="fa fa-github-square fa-3x social"></i></a> </li>
-                                <li> <a href="mailto:bootsnipp@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a> </li>
+                                <li> <a href="mailto:triplett@alum.mit.edu"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a> </li>
                             </ul>       
                
                
@@ -85,6 +90,11 @@ width: 100%;
 							<div class="about-img">
 								<img src="https://github.com/guythedude/Personal/blob/master/selfiePond.jpg?raw=true" alt="">
 							</div>
+              <div>
+                <ul>
+                  <li>Email:<a href="mailto:triplett@alum.mit.edu">  triplett@alum.mit.edu</a></li>
+                </ul>
+              </div>
 						</div>	
                     </div>
                 </div>
